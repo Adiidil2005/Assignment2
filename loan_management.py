@@ -1,3 +1,4 @@
+#This module provides functions to calculate the due date and fine for a loan based on the issue date and return date.
 from datetime import timedelta
 
 LOAN_DAYS = 14
