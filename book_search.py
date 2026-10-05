@@ -1,3 +1,4 @@
+# Sample library books used for demonstration and testing
 BOOKS = [
     {"title": "Software Engineering", "author": "Ian Sommerville"},
     {"title": "Software Engineering: A Practitioner's Approach", "author": "Roger Pressman"},
